@@ -5,7 +5,7 @@ This project is a role-based Helpdesk/Ticketing System built to streamline inter
 https://www.loom.com/share/7e2008ef00fa4b68a18b71f5683c84f4
 
 ## ✅ Key Features
-Role-Based Access
+### Role-Based Access
 
 Admin: Full control – manage users and tickets
 
@@ -13,7 +13,7 @@ Agent: Assign and manage tickets
 
 Employee: Submit and reply to tickets
 
-Ticket Lifecycle Management
+### Ticket Lifecycle Management
 
 Create, assign, update, and close tickets
 
@@ -21,15 +21,15 @@ Attach files (images, documents)
 
 Set ticket priority (Low, Medium, High)
 
-Real-Time Email Notifications
+### Real-Time Email Notifications
 
 Email alerts for new tickets, assignments, and replies
 
-JWT-Based Authentication
+### JWT-Based Authentication
 
 Secure login and protected APIs using JSON Web Tokens
 
-Clean and Responsive Frontend
+### Clean and Responsive Frontend
 
 Built with ReactJS
 
